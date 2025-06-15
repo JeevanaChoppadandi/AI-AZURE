@@ -1,4 +1,4 @@
-# ANAMOLY DETECTION
+# ANOMALY DETECTION
 Project Description
 This project implements a real-time anomaly detection system for surveillance videos using brightness-based analysis. The system monitors video feeds and flags abnormal activities when frames become extremely dark (brightness < 50) or bright (brightness > 200). Detected anomalies trigger on-screen alerts, making it useful for detecting camera tampering, sudden lighting changes, or power failures.
 
